@@ -142,19 +142,6 @@ show ip ips interfaces
 show ip ips statistics
 ```
 
-## Repository Structure
-
-```text
-secure-enterprise-network-soc-lab/
-├── README.md
-├── Documentation/
-├── Topology/
-├── Configurations/
-├── Security/
-├── Testing/
-└── Screenshots/
-```
-
 **Important:** remove passwords, private keys, tokens and other secrets before publishing configurations.
 
 
